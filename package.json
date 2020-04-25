@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "nodegit": "^0.26.5",
+    "openpgp": "^4.10.4",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/nodegit": "^0.26.2"
+  }
+}
